@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Algoritmus</title>
+    <link>https://gohugo-theme-ananke.pages.dev/post/</link>
+    <description>Recent content in Projects on Algoritmus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Life project, from doctor to data scientist</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-5/</link>
+      <pubDate>Sun, 01 Jan 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-5/</guid>
+      <description>My name is Julián Mendoza, I&amp;rsquo;m from colombia, studied medicine from 2012 to 2019, then worked as a doctor for a year but soon enough after graduating, I started to study math like crazy, mainly algebra and calculus, because I wanted to become an expert in AI but I knew that was gonna take a lot of time, and the process of first re learn math, then learn one or several programming languages and then become a data scientist and maybe later a machine learning enginer, so far the process involved first becoming a data analyst, then working as a data engineer, right now becoming a Jr.</description>
+    </item>
+    
+    <item>
+      <title>EDA generator Python code</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</link>
+      <pubDate>Mon, 12 Dec 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</guid>
+      <description>The automatized EDA generator python code is a very cool project that I worked with 2 engineers from IA Aplicada, our first goal to be honest wast to save a lot of time in generating data exploratory analysis notebooks for every file that we had to analyse and to have more time to investigate with a deeper view the correlations between data. With the coordination on Rafael Belalcazar as a senior and colaboration of Juan Manuel Davila, we managed to create a python code that uses the jupyter json cell structure to automatize the creation of EDA colab notebooks and saved us a lot of time.</description>
+    </item>
+    
+    <item>
+      <title>ETL projects</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</link>
+      <pubDate>Wed, 05 Oct 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</guid>
+      <description>ETL projects can be developed in several platforms and using many technologies.
+airflow_ETL_orchestration I&amp;rsquo;ve worked ETL processes using Apache Spark, Kafka, Pandas, AWS Glue, Apache Airflow with creation of Directed acyclic graphs for orchestration adn data transform inside the DAG implementing python code with different levels of complexity.
+json_to_Dataframe_to_SQL_from_API This code extracts information from patients medical prescriptions from a government API, of course it has to use a token and health instituion ID in order to do so but can in fact extract huge amount of medical prescription data in order to allow surveillance and precise information from authorized meds that are prescribed by specialist medical doctors in Colombia</description>
+    </item>
+    
+    <item>
+      <title>GRAM: the group where I grew as a doctor and now contribute with biopython and data analysis</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</link>
+      <pubDate>Fri, 11 Mar 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</guid>
+      <description>With GRAM that is the spanish acronym for Manizales Antibiotic Resistance Group, its been all about academy, I&amp;rsquo;m a founder member of the group, we started it as an academic association for medical students and graduates in order to spread knowledge about bacterial resistance, microbiology subjects and later on created an epidemiological surveillance project for bacterial resistance in the city, that involved data analysis, interpeting antibiogram data at a comunity level and determining level of resistance for various multi drug resistent bacteria in Manizales, Colombia.</description>
+    </item>
+    
+  </channel>
+</rss>
