@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/fr/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/fr/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gohugo-theme-ananke.pages.dev/fr/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/fr/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/fr/categories/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/fr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gohugo-theme-ananke.pages.dev/fr/categories/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/fr/categories/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/fr/tags/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/fr/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gohugo-theme-ananke.pages.dev/fr/tags/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/fr/tags/"
                 />
   </url>
 </urlset>

@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/</loc>
     <lastmod>2023-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gohugo-theme-ananke.pages.dev/fr/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/post/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/post/</loc>
     <lastmod>2023-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/post/chapter-5/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/post/chapter-5/</loc>
     <lastmod>2023-01-01T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/post/chapter-4/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/post/chapter-4/</loc>
     <lastmod>2022-12-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/post/chapter-6/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/post/chapter-6/</loc>
     <lastmod>2022-10-05T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/post/chapter-3/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/post/chapter-3/</loc>
     <lastmod>2022-03-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/about/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/categories/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gohugo-theme-ananke.pages.dev/fr/categories/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/categories/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/contact/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
+    <loc>https://algoritmus/github.io/julian_mendoza_portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gohugo-theme-ananke.pages.dev/fr/tags/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                href="https://algoritmus/github.io/julian_mendoza_portfolio/tags/"
                 />
   </url>
 </urlset>
